@@ -1,6 +1,6 @@
-#!/boin/bash
+#!/bin/bash
 
 for i in {1..100}
 do
-echio $i
+echo $i
 done
